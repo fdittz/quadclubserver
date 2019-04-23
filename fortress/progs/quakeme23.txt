@@ -1,0 +1,185 @@
+QUAKEME22.TXT for QUAKEME22.ZIP
+
+     Animation Viewer and Texture editor for MDL files
+
+     Version 2.2, compatible with QTest, Quake SW 0.91/0.92
+
+     Windows 95, Windows NT 3.51 and Windows NT 4.0
+
+Author : Rene Post (renep@xs4all.nl)
+Date   : 10 jul 1996
+
+Note: 
+(a) The software is supplied free of charge.
+(b) The software is experimental and not guaranteed
+to work in your particular setup.
+
+1.  Description
+2.  Files
+3.  Installation Instructions
+4.  Working with QuakeME
+5.  Credits
+6.  Technical Issues
+7.  Known Bugs and Limitiations
+8.  History
+
+
+
+1. Description
+
+QuakeME is an animation viewer and texture editor for MDL 
+files. MDL files contain models of monsters and weapons that
+are used in Quake.
+
+With QuakeME you can:
+- View 3D texture mapped animations contained in MDL files.
+- Import and export textures to a 256 colors windows BMP file. 
+- Fit textures around the 3D model by adjusting 2D texture vertices.
+- Show the data contained in he MDL file.
+
+You can find MDL files in the PAK0.PAK and ID1.PAK files that are 
+part of the the shareware version of Quake and the Quake test.
+Both files are distributed by id software.
+
+
+
+2. Files
+
+QUAKEME.EXE	The program, (quake palette is built-in)
+QUAKEME22.TXT	Your reading it
+H_GUARD.MDL	Changes the soldier into Duke
+SOLDIER.MDL	Head of gibbed Duke
+
+
+
+3. Installation Instructions
+
+Nothing particular, just copy the EXE to your utils directory.
+
+You might want to setup a filetype association between QuakeME 
+and MDL type files, since QuakeME accepts files passed via the 
+command line.
+
+
+
+4. Working with QuakeME
+
+You can start immediately by viewing the soldier.mdl I included as a demo.
+
+For the other MDL files, you have to unpak PAK0.PAK first. 
+There are several utilities that can rip apart a PAK file, get one of them.
+
+To start working with QuakeME, select the menu item "File|Open Model..." 
+and select the MDL file you want to view. I have include a replacement
+for the soldier that makes him look like Duke. Now the use Blowup spincontrol
+to zoomin on the frame.
+
+Copy SOLDIER.MDL and H_GUARD.MDL to your quake progs directory 
+e.g. C:\QUAKE_SW\ID1\PROGS and E1M1 lets you take care of Duke 
+once and for all.
+
+Now a combobox in the toolbar is filled with all available model files in 
+the same directory as the modelfile you selected. Selecting one of them 
+will open it and show its contents.
+
+The 3D view shows either a texture mapped, solid or wireframe of the active
+animation frame.
+
+To rotate the frame use the right mouse button and rotate the frame by 
+dragging it. 
+
+To move the frame across the screen, use the the left mouse button and 
+drag it.
+
+
+
+5. Credits
+
+Thanks to Chris for beta testing, check out his Quake page at
+http://www.hughchristie.kent.sch.uk/qpage/quake.html
+
+Thanks to mbuckton@Direct.Ca for his great work on the Duke 
+textures.
+
+
+
+6. Technical Issues
+
+I got a number of questions about the way I programmed QuakeME.
+
+QuakeME 1.0 was developed using Delphi 1.0 and ModelMaker 1.5 (CASE 
+tool developed by me and a friend of mine, FREEWARE look at the Delphi
+SuperPage under "Component Building Tools").
+
+QuakeME 2.1 is now a 32 bits application and is developed using 
+Delphi 2.0 and ModelMaker 1.5. 
+
+All code is written in Pascal (NO assembler). I used the WinG library 
+to create the initial texture mapping under the 16 bits Delphi 1.0 version.
+I then decided to make the switch to Delphi 2.0 and reimplemented the WinG
+library as direct calls to the Windows 95 API.
+
+QuakeME 2.2 now uses some Win95 controls (also available in NT) to improve the 
+userinterface.
+
+Other Quake related Delphi resources are available from Mads B. Dydensborg.
+http://www.diku.dk/students/madsdyd/quake/delphisource.htm
+I think I will start releasing the rendering stuff in sourcecode components
+there.
+
+
+
+7. Known Bugs and Limitations
+
+Sometimes at startup the pallete gets screwed up until 
+the mainwindow receives the focus. Suggestion, live with
+it.
+
+I ran the program on 3 Windows 95 systems and 
+one Windows NT 3.5 system.
+
+Win95
+a 33 mhz 486 DX with 8 mb and a 256 color adapter
+a 75 mhz Pentium with 16 mb and a 65k color adapter
+a 90 mhz Pentium with 16mb and a 256 color adapter
+
+NT 3.51
+a 90 mhz Pentium with 32mb and a 256 color adapter
+
+NT 4.0 beta 1
+a 90 mhz Pentium with 32mb and a 256 color adapter
+
+NT 4.0 beta 2
+a 120 mhz Pentium with 32mb in 16 color VGA (ugly).
+
+Speed was acceptable on the 486, but the texture 
+mapping looks really stunning on the 90 mhz Pentium.
+Loading of new mdl files is really slooooow on 
+Windows NT 3.51 and NT 4.0 beta 1, NT 4.0 beta 2 was 
+better.
+
+
+
+8. History
+
+13 mar 1996  Version 1.0
+
+	Initial release.
+
+31 mar 1996  Version 2.0
+
+	Fixed bug in back triangle display code.
+	Made QuakeME 32 bits, compiled it under Delphi 2.0 environment.
+	Added texture mapping to the 3D view.
+
+2 apr 1996  Version 2.1
+
+	Fixed bug in flushing textures to the screen in Windows NT 3.5.
+	Fixed access violation error that would occasionally occur in
+	texture mapped view.
+
+10 jul 1996 Version 2.2
+
+	Compatible with shareware 0.91 and 0.92 now.
+	QuakeMe is backward compatible with QTest release !
+	Improved the UI a lot !

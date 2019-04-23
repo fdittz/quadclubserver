@@ -1,0 +1,5 @@
+I forgot to include wave.mdl and dtree.mdl with ewg3 so here they are.
+Put them in your fortress\progs directory.
+
+Both these models came from maps by >V< Someone who has done several kickass maps like
+2tech4, sewer1, 2mach1 etc. Be sure to check em out. :)

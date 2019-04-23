@@ -1,0 +1,367 @@
+// original loc by [ad112]smurf
+// modified by liberator - viktor@bahnhof.se - #lovely @ quakenet
+-9600 20113 704 blue resupply
+-9600 18734 704 blue resupply
+-9600 16945 704 blue resupply
+-11089 17716 704 blue resupply
+-11100 19305 704 blue resupply
+-21629 20351 704 blue resupply
+-22712 20351 704 blue resupply
+-22793 19021 704 blue resupply
+-21647 17390 704 blue resupply
+-22086 16974 704 blue resupply
+-12127 20348 704 blue mainroom
+-12135 19389 704 blue mainroom
+-12174 17051 704 blue mainroom
+-13290 16807 704 blue mainroom
+-15338 16677 704 blue mainroom
+-17285 16607 704 blue mainroom
+-19146 16504 704 blue mainroom
+-20094 17607 704 blue mainroom
+-20153 19519 704 blue mainroom
+-18514 19924 704 blue mainroom
+-16383 19178 800 blue mainroom
+-12501 14506 704 blue inside door
+-12503 13376 704 blue inside door
+-13588 13224 704 blue inside door
+-14996 13163 704 blue inside door
+-17329 13271 704 blue inside door
+-18995 13374 704 blue inside door
+-20515 13372 704 blue inside door
+-20328 14476 704 blue inside door
+-22010 13685 704 blue inside door
+-11526 13430 701 blue inside door
+-21419 11780 448 blue bunker
+-21464 10688 448 blue bunker
+-21482 8904 448 blue bunker
+-21289 6956 448 blue bunker
+-18406 6456 448 blue bunker
+-11222 12123 448 blue bunker
+-11443 10637 448 blue bunker
+-11335 8774 448 blue bunker
+-11853 7052 448 blue bunker
+-13684 6895 448 blue bunker
+-15991 14464 2240 blue mainroom high
+-16747 14745 2240 blue mainroom high
+-18497 14791 2240 blue mainroom high
+-20512 14716 2240 blue mainroom high
+-22428 14777 2240 blue mainroom high
+-22999 16070 2240 blue mainroom high
+-22473 18034 2240 blue mainroom high
+-21960 19984 2240 blue mainroom high
+-12013 14958 2563 blue mainroom high
+-9660 15842 2240 blue mainroom high
+-10789 17122 2240 blue mainroom high
+-10595 19398 2240 blue mainroom high
+-8596 15231 2240 blue rooflift
+-24415 14881 2240 blue rooflift
+-10269 15231 4032 blue roof
+-9915 13151 4032 blue roof
+-12291 13032 4032 blue roof
+-16500 12879 4268 blue roof
+-19784 13792 4298 blue roof
+-22005 13918 4032 blue roof
+-17301 15231 4032 blue roof
+-12501 15197 4032 blue roof
+-16480 21876 704 blue ramps
+-16726 23061 704 blue ramps
+-17105 25092 926 blue ramps
+-17791 26860 1887 blue ramps
+-16838 26888 1728 blue ramps
+-15372 26932 1728 blue ramps
+-15478 25207 1270 blue ramps
+-15621 28272 1600 blue spiral
+-14925 28088 1488 blue spiral
+-14037 25733 44 blue spiral
+-13936 24411 -703 blue spiral
+-13846 23006 -1273 blue spiral
+-19106 23085 -1471 blue spiral
+-19177 24644 -703 blue spiral
+-19099 26036 64 blue spiral
+-18989 27351 704 blue spiral
+-17752 28595 1344 blue spiral
+-15055 21632 -1599 blue flagroom
+-16224 21632 -1599 blue flagroom
+-17257 21784 -1599 blue flagroom
+-17652 23758 -1599 blue flagroom
+-15617 23869 -1599 blue flagroom
+-16336 25891 -1343 blue flagroom
+-16573 28458 -1599 blue flagroom
+-17543 26753 -2227 blue flagroom slime
+-17127 26591 -2642 blue flagroom slime
+-16408 26747 -2999 blue flagroom slime
+-15668 26040 -3048 blue flagroom slime
+-17410 25216 -2797 blue flagroom slime
+-11214 21329 2240 blue right passage
+-11371 22586 2240 blue right passage
+-11323 24466 2240 blue right passage
+-11199 26358 2240 blue right passage
+-11318 27740 2240 blue right passage
+-12524 28728 1728 blue right passage
+-20167 28721 1728 blue left passage
+-20792 28541 1948 blue left passage
+-21509 26546 2240 blue left passage
+-21441 24385 2240 blue left passage
+-21503 22668 2240 blue left passage
+-22309 21402 2240 blue left passage
+-20046 7968 192 blue yard
+-18137 8098 192 blue yard
+-16183 8083 192 blue yard
+-14199 8261 192 blue yard
+-12886 9596 192 blue yard
+-13222 11513 192 blue yard
+-14875 12152 704 blue yard
+-16903 11796 704 blue yard
+-19190 11663 626 blue yard
+-20319 9753 192 blue yard
+-12416 11253 192 blue yard
+-16646 5255 192 blue yard
+-14299 5359 192 blue yard
+-12205 5733 192 blue yard
+-10134 5377 192 blue yard
+-10532 3378 192 blue yard
+-12403 2346 192 blue yard
+-14768 1018 192 blue yard
+-17759 351 192 blue yard
+-20573 1460 192 blue yard
+-22666 3815 192 blue yard
+-22940 5619 192 blue yard
+-10089 6751 192 blue yard
+-9929 7908 192 blue yard
+-9901 10531 192 blue yard
+-22452 6315 192 blue yard
+-22620 7926 192 blue yard
+-22907 9725 192 blue yard
+-22765 11164 192 blue yard
+-11428 12156 1472 blue bunker roof
+-11414 11506 1472 blue bunker roof
+-11373 9901 1472 blue bunker roof
+-11310 8067 1472 blue bunker roof
+-12531 6600 1472 blue bunker roof
+-14404 6560 1472 blue bunker roof
+-21246 11795 1472 blue bunker roof
+-21343 9941 1472 blue bunker roof
+-21334 8393 1472 blue bunker roof
+-20550 6987 1472 blue bunker roof
+-18856 6566 1600 blue bunker roof
+-13700 -243 192 blue yard tunnel
+-13242 -205 192 blue yard tunnel
+-11659 20 192 blue yard tunnel
+-9874 42 192 blue yard tunnel
+-8303 217 192 blue yard tunnel
+-7855 1738 192 blue yard tunnel
+-7272 -1606 192 blue yard tunnel
+-3025 -3967 192 blue center yard
+-4815 -3770 192 blue center yard
+-5632 -2346 192 blue center yard
+-5702 841 192 blue center yard
+-6070 2803 192 blue center yard
+-3087 3476 192 blue center yard
+-3698 -1697 192 blue center yard
+-2773 -2 320 bridge
+-1771 9 320 bridge
+196 32 320 bridge
+2428 59 320 bridge
+2685 3938 192 red center yard
+2724 2273 192 red center yard
+2708 1419 192 red center yard
+3989 833 192 red center yard
+3262 -2012 192 red center yard
+3639 -3571 192 red center yard
+5821 -2261 192 red center yard
+5730 382 192 red center yard
+6255 2559 192 red center yard
+7377 1590 192 red yard tunnel
+7569 -1230 192 red yard tunnel
+8223 28 192 red yard tunnel
+9403 0 192 red yard tunnel
+11346 -20 192 red yard tunnel
+14500 -92 192 red yard tunnel
+15866 170 192 red yard
+17777 -353 192 red yard
+19919 -1019 192 red yard
+21878 -2733 192 red yard
+22871 -4812 192 red yard
+21220 -5582 192 red yard
+18900 -5632 192 red yard
+16919 -5494 192 red yard
+14599 -5670 192 red yard
+12580 -5510 192 red yard
+10848 -5468 192 red yard
+14525 -7935 192 red yard
+12416 -7808 192 red yard
+12501 -9169 192 red yard
+13902 -10917 320 red yard
+15846 -11644 704 red yard
+17904 -11577 704 red yard
+19684 -11655 380 red yard
+20155 -10268 192 red yard
+19564 -8349 192 red yard
+-19233 5759 192 blue yard
+-21065 5759 192 blue yard
+22726 -6151 192 red yard
+22702 -7155 192 red yard
+22781 -8884 192 red yard
+22825 -11075 192 red yard
+9622 -6377 192 red yard
+9945 -7961 192 red yard
+9879 -11081 192 red yard
+11642 -12159 1472 red bunker roof
+11451 -10620 1472 red bunker roof
+11359 -8972 1472 red bunker roof
+11791 -7155 1472 red bunker roof
+13993 -7252 1593 red bunker roof
+21443 -11931 1472 red bunker roof
+21276 -10361 1472 red bunker roof
+21421 -8642 1472 red bunker roof
+20911 -7079 1472 red bunker roof
+18945 -6559 1600 red bunker roof
+16543 -13201 704 red inside door
+17150 -13240 704 red inside door
+19161 -13149 704 red inside door
+21826 -13403 692 red inside door
+16445 -14222 704 red inside door
+12786 -14090 704 red inside door
+11051 -13640 704 red inside door
+-1072 2758 -1027 lake
+-11 3249 -1346 lake
+567 2619 -1840 lake
+-329 2090 -2370 lake
+1069 -1367 -720 lake
+403 -1558 -1149 lake
+204 -2700 -2370 lake
+173 -3967 -1087 lake
+14540 -8711 -1063 red water tunnel
+13272 -8741 -893 red water tunnel
+10527 -8802 -1407 red water tunnel
+7047 -8906 -2245 red water tunnel
+5527 -8901 -2367 red water tunnel
+3875 -8776 -2367 red water tunnel
+2092 -8658 -2367 red water tunnel
+453 -8534 -2367 red water tunnel
+96 -6980 -2367 red water tunnel
+9 -5290 -2268 red water tunnel
+41 -3880 -1654 red water tunnel
+-6145 -9708 -11583 quad room
+-5347 -9963 -11583 quad room
+-5293 -12191 -11496 quad room
+-5418 -14334 -11583 quad room
+-7867 -12613 -11583 quad room
+12005 -15923 704 red mainroom
+13267 -16863 704 red mainroom
+15291 -16410 704 red mainroom
+17216 -16622 704 red mainroom
+19329 -16424 704 red mainroom
+20488 -18117 704 red mainroom
+18299 -19143 704 red mainroom
+16162 -19781 704 red mainroom
+21496 -12115 448 red bunker
+21400 -10652 448 red bunker
+21192 -9254 448 red bunker
+21080 -7834 448 red bunker
+18884 -7105 448 red bunker
+11036 -11900 448 red bunker
+11239 -10393 448 red bunker
+11270 -8280 448 red bunker
+12433 -6609 448 red bunker
+13903 -6754 448 red bunker
+21835 -19559 712 red resupply
+21896 -18408 704 red resupply
+22042 -16575 704 red resupply
+10871 -20351 704 red resupply
+10911 -19763 704 red resupply
+10761 -17428 704 red resupply
+12041 -18126 704 red mainroom
+11943 -19001 704 red mainroom
+20863 -16653 704 red mainroom
+20863 -15713 704 red mainroom
+14380 -14494 2240 red mainroom high
+12857 -14640 2240 red mainroom high
+11340 -14785 2240 red mainroom high
+9697 -15823 2240 red mainroom high
+10675 -17183 2240 red mainroom high
+11123 -19286 2240 red mainroom high
+10245 -20370 2240 red mainroom high
+14226 -14470 2240 red mainroom high
+16438 -14653 2240 red mainroom high
+18845 -14663 2240 red mainroom high
+21482 -14912 2240 red mainroom high
+23025 -15933 2240 red mainroom high
+22105 -17884 2240 red mainroom high
+21525 -18458 2240 red mainroom high
+21611 -19647 2240 red mainroom high
+24447 -14464 2240 red rooflift
+23859 -14772 2304 red rooflift
+8340 -14511 2609 red rooflift
+8958 -14854 2240 red rooflift
+10743 -14849 4032 red roof
+11814 -13735 4032 red roof
+13850 -14386 4032 red roof
+15310 -15027 4032 red roof
+16967 -15231 4032 red roof
+18720 -15154 4032 red roof
+20483 -15172 4032 red roof
+22231 -14817 4032 red roof
+21380 -12833 4032 red roof
+19345 -12600 4032 red roof
+17143 -12892 4080 red roof
+16389 -21543 704 red ramps
+16908 -22373 704 red ramps
+17200 -23969 704 red ramps
+17629 -25622 1229 red ramps
+17581 -26914 1871 red ramps
+15274 -26365 1724 red ramps
+14976 -24559 857 red ramps
+16480 -27952 1728 red spiral
+17304 -28430 1716 red spiral
+19229 -28185 860 red spiral
+18560 -25996 198 red spiral
+18771 -23757 -890 red spiral
+13537 -23366 -1343 red spiral
+13256 -24885 -575 red spiral
+13569 -26489 192 red spiral
+14145 -28015 832 red spiral
+15644 -28278 1600 red spiral
+21834 -21120 2240 red left passage
+21476 -22581 2240 red left passage
+21656 -24726 2240 red left passage
+21635 -27005 2240 red left passage
+21092 -28554 1984 red left passage
+20197 -28636 1728 red left passage
+10664 -21261 2240 red right passage
+11200 -21834 2240 red right passage
+11236 -23578 2240 red right passage
+11329 -25594 2240 red right passage
+11050 -27427 2240 red right passage
+11428 -29055 1984 red right passage
+12541 -28636 1728 red right passage
+12589 -28615 1728 red right passage
+15498 -21873 -1599 red flagroom
+16565 -21848 -1599 red flagroom
+17682 -22336 -1599 red flagroom
+17004 -23915 -1599 red flagroom
+14996 -24119 -1599 red flagroom
+16320 -25897 -1343 red flagroom
+16404 -27146 -1394 red flagroom
+16703 -28888 -1599 red flagroom
+17345 -26386 -2274 red flagroom slime
+16643 -26703 -2763 red flagroom slime
+15399 -26768 -2856 red flagroom slime
+14997 -25740 -2825 red flagroom slime
+16215 -25444 -3047 red flagroom slime
+17177 -25372 -3120 red flagroom slime
+174 4337 -2103 blue watertunnel
+127 5295 -1792 blue watertunnel
+120 6138 -1859 blue watertunnel
+101 6972 -1815 blue watertunnel
+-294 8131 -2067 blue watertunnel
+-1979 8614 -2247 blue watertunnel
+-3205 8684 -2337 blue watertunnel
+-4511 8733 -2301 blue watertunnel
+-5655 8731 -2235 blue watertunnel
+-6967 8632 -2016 blue watertunnel
+-8502 8668 -2080 blue watertunnel
+-9720 8583 -1801 blue watertunnel
+-11184 8567 -1215 blue watertunnel
+-13291 8538 -1215 blue watertunnel
+-14835 8634 -927 blue watertunnel

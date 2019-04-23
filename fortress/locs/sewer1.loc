@@ -1,0 +1,452 @@
+-17536 -23680 -2623 bl flagroom
+-17536 -27519 -2623 bl flagroom
+-20351 -27519 -3135 bl flagroom
+-20351 -23680 -3135 bl flagroom
+-27519 -23681 -2112 bl flagroom
+-27519 -27519 -2111 bl flagroom
+-28800 -24440 -2047 bl lower waterhall
+-28914 -26495 -2111 bl lower waterhall
+-30591 -26495 -2111 bl lower waterhall
+-30587 -18560 -2111 bl lower waterhall
+-28610 -21375 -2600 bl lower waterhall
+-25082 -21375 -2367 bl lower waterhall
+-20096 -21397 -1727 bl lower waterhall
+-25287 -19547 -2367 bl lower waterhall
+-24986 -14464 -2367 bl lower waterhall
+-26495 -17268 -1855 bl lower waterhall
+-26103 -28425 -2036 bl way to flagroom
+-25997 -31200 -1855 bl way to flagroom
+-24375 -31214 -1855 bl way to flagroom
+-23788 -27776 -1087 bl way to flagroom
+-20953 -25432 -1302 bl sewer crossroad
+-21099 -24159 -1311 bl way to low. waterhall
+-19232 -25054 -959 bl way to tube
+-15213 -24396 -990 bl way to tube
+-15633 -21849 171 bl way to tube
+-24447 -14464 192 bl upper waterhall
+-24447 -17279 192 bl upper waterhall
+-23031 -17073 192 bl upper waterhall
+-20238 -17052 192 bl upper waterhall
+-16416 -17255 320 bl upper waterhall
+-17533 -14475 192 bl upper waterhall
+-20863 -14720 192 bl upper waterhall
+-13440 -12416 1088 bl upper waterhall
+-13617 -14917 960 bl upper waterhall
+-15336 -14883 832 bl upper waterhall
+-15936 -13951 1216 bl RR
+-15936 -9600 1216 bl RR
+-15936 -11665 1216 bl RR
+-18303 -9600 1216 bl RR
+-18303 -13951 1216 bl RR
+-21823 -13951 2240 bl RR
+-21887 -10357 2501 bl RR
+-21823 -7808 2752 bl RR
+-19774 -7808 2752 bl RR
+-15880 -7808 2752 bl RR
+-15231 -9088 1216 bl wallroom
+-15231 -11391 1216 bl wallroom
+-13521 -9088 1216 bl wallroom
+-10368 -9088 1216 bl wallroom
+-10369 -11590 1216 bl wallroom
+-12158 -11621 1216 bl wallroom
+-13183 -14464 1088 bl wallroom
+-9344 -14464 1088 bl wallroom
+-9344 -16512 704 bl wallroom
+-13180 -16512 704 bl wallroom
+-13181 -18048 704 bl wallroom respawn
+-13183 -19291 460 bl wallroom respawn
+-9344 -18049 704 bl wallroom respawn
+-9507 -19327 448 bl wallroom respawn
+-11729 -19057 538 bl wallroom respawn
+-11721 -20288 576 bl tube to wall
+-13983 -20337 576 bl tube to wall
+-15386 -20330 358 bl blown tube
+-16930 -20336 576 bl tube to waterroom
+-19177 -20156 499 bl tube to waterroom
+-21431 -20058 320 bl tube to waterroom
+-22957 -18407 320 bl tube to waterroom
+-11615 -7515 1216 bl way to wallroom
+-10384 -6874 1216 bl way to wallroom
+-12067 -5248 1216 bl way to wallroom
+-13838 -5385 860 bl way to wallroom
+-16799 -4899 192 bl way to wallroom
+-18303 -1408 256 bl way to wallroom
+-16514 -1408 256 bl way to wallroom
+-18285 -2655 192 bl way to wallroom
+-18184 -4462 192 bl way to wallroom
+-16640 127 256 bl left entrance
+-16640 -836 256 bl left entrance
+-18352 -836 256 bl left entrance
+-19857 -836 256 bl left entrance
+-21247 -836 256 bl left entrance
+-21247 127 256 bl left entrance
+-20073 127 256 bl left entrance
+-18686 127 256 bl left entrance
+-17807 127 256 bl left entrance
+-20608 -4704 192 bl main entrance
+-20608 -6015 192 bl main entrance
+-22278 -6015 192 bl main entrance
+-24893 -6015 192 bl main entrance
+-26495 -6014 192 bl main entrance
+-26495 -4480 192 bl main entrance
+-25287 -4532 192 bl main entrance
+-23441 -4704 192 bl main entrance
+-21867 -4498 192 bl main entrance
+-24960 -6684 414 bl way to RR
+-26449 -6739 433 bl way to RR
+-26495 -8831 704 bl way to RR
+-24744 -7808 704 bl way to RR
+-22656 -7809 704 bl way to RR
+-22701 -8831 704 bl way to RR
+-24943 -8738 704 bl way to RR
+-23978 -9929 1344 bl way to RR
+-24959 -12415 1728 bl way to RR
+-22400 -12415 1728 bl way to RR
+-23423 -10405 2240 bl way to RR
+-22400 -10235 2434 bl way to RR
+-22408 -8913 2752 bl way to RR
+-22400 -7808 2752 bl way to RR
+-21887 -9865 2747 bl RR
+-21887 -12427 2240 bl RR
+-16512 -6584 2752 bl upper way to RR
+-18339 -6016 2760 bl upper way to RR
+-18526 -6908 2803 bl upper way to RR
+-20009 -7039 3104 bl upper way to RR
+-21119 -7039 3104 bl upper way to RR
+-21119 -4480 3104 bl upper way to RR
+-20334 -5663 3104 bl upper way to RR
+-18513 -4574 3104 bl upper way to RR
+-16512 -4480 3104 bl upper way to RR
+-16512 -5503 3104 bl upper way to RR
+-16512 -3967 3104 bl cappoint deck
+-18390 -3755 3264 bl cappoint deck
+-17527 -3446 3104 bl cappoint deck
+-16512 -1586 3104 bl cappoint deck
+-16529 350 3104 bl cappoint deck
+-15744 2823 3264 bl cappoint deck
+-16530 4208 3264 bl cappoint deck
+-18097 3858 3264 bl cappoint deck
+-19247 2872 3264 bl cappoint deck
+-19327 833 3264 bl cappoint deck
+-21126 742 3264 bl cappoint deck
+-21217 -619 3264 bl cappoint deck
+-18984 -919 3264 bl cappoint deck
+-20352 -20094 -1471 bl tunnel entrance
+-20558 -17168 -1471 bl tunnel entrance
+-20462 -14678 -1471 bl tunnel entrance
+-20540 -11678 -1272 bl tunnel entrance
+-20451 -9367 -1107 bl tunnel entrance
+-20359 -7012 -959 bl tunnel entrance
+-22759 -6955 -959 bl tunnel entrance
+-24600 -6973 -959 bl tunnel entrance
+-26239 -7018 -959 bl tunnel entrance
+-26168 -5074 -959 bl tunnel entrance
+-26152 -3230 -959 bl tunnel entrance
+-26137 -1293 -959 bl tunnel entrance
+-26123 490 -959 bl tunnel entrance
+-27004 2687 -959 bl tunnel entrance
+-25216 2686 -959 bl tunnel entrance
+-25216 1179 -959 bl tunnel entrance
+-27007 1219 -959 bl tunnel entrance
+-21504 -19584 -2367 bl lower waterhall
+-23566 -2161 4032 bl sniperdeck
+-22912 -3486 4032 bl sniperdeck
+-24298 -3666 4032 bl sniperdeck
+-25183 -2944 4032 bl sniperdeck
+-27059 -3711 4032 bl sniperdeck
+-28200 -2432 4032 bl sniperdeck
+-31615 -3967 3520 bl sniper respawn
+-31615 -1152 3520 bl sniper respawn
+-28800 -1152 3520 bl sniper respawn
+-29029 -3037 3904 bl sniper respawn
+-16951 -11391 3008 bl teleporter
+-16968 -12160 3008 bl teleporter
+-26136 6664 192 bl outside
+-23889 6986 192 bl outside
+-19960 6960 192 bl outside
+-17485 6949 192 bl outside
+-17085 5041 192 bl outside
+-17136 2452 192 bl outside
+-19946 1854 320 bl outside
+-22006 459 256 bl outside
+-21121 -3188 320 bl outside
+-21960 -1742 256 bl outside
+-23332 -1350 256 bl outside
+-26639 -1482 256 bl outside
+-26615 286 320 bl outside
+-24895 2977 320 bl outside
+-26657 2992 320 bl outside
+-23237 3812 192 bl outside
+-21271 942 256 bl outside
+-18864 733 256 bl outside
+-16577 733 256 bl outside
+-16094 9347 607 short way
+-18317 9559 554 short way
+-19658 9440 583 short way
+-19245 11560 192 short way
+-15314 10953 192 short way
+-14745 13185 704 short way
+-17081 14444 704 short way
+-14040 16306 648 short way
+-12559 13684 192 short way
+-10596 16186 192 short way
+-8421 14975 704 short way
+-8676 12011 670 short way
+-10011 13720 192 short way
+-9064 20806 541 long way
+-9136 21958 517 long way
+-11756 21888 192 long way
+-10199 18495 192 long way
+-12405 19257 192 long way
+-15438 22036 858 long way
+-15952 19834 922 long way
+-16791 18563 1027 long way
+-19827 21579 1216 long way
+-19645 17156 1216 long way
+-21762 18618 1216 long way
+-21831 13952 448 long way
+-26162 14365 743 long way
+-23097 12017 192 long way
+-22839 10167 325 long way
+-26195 10264 261 long way
+-6444 12378 192 œreœ outside
+-6531 14138 192 œreœ outside
+-6500 16691 192 œreœ outside
+-6442 18987 192 œreœ outside
+-6567 21367 192 œreœ outside
+-4576 22288 192 œreœ outside
+-733 22386 256 œreœ outside
+-733 19824 256 œreœ outside
+-733 17712 256 œreœ outside
+470 16981 256 œreœ outside
+2630 18844 192 œreœ outside
+3424 16978 256 œreœ outside
+1920 16512 256 œreœ outside
+1859 14233 256 œreœ outside
+1919 11904 256 œreœ outside
+864 12549 320 œreœ outside
+-460 11904 192 œreœ outside
+-1809 13984 320 œreœ outside
+-3785 11904 192 œreœ outside
+-3102 16818 192 œreœ outside
+-127 17664 256 œreœ left entrance
+836 17664 256 œreœ left entrance
+836 19197 256 œreœ left entrance
+819 20654 256 œreœ left entrance
+836 21789 256 œreœ left entrance
+-127 22271 256 œreœ left entrance
+-127 20867 256 œreœ left entrance
+-127 19610 256 œreœ left entrance
+-127 17664 256 œreœ left entrance
+1408 22328 256 œreœ way to wallroom
+1389 20864 256 œreœ way to wallroom
+3092 20608 192 œreœ way to wallroom
+4779 20885 192 œreœ way to wallroom
+4384 22432 200 œreœ way to wallroom
+5503 22484 213 œreœ way to wallroom
+6283 26431 1200 œreœ way to wallroom
+5217 26374 1185 œreœ way to wallroom
+5248 28543 1216 œreœ way to wallroom
+8063 28543 1216 œreœ way to wallroom
+7620 26752 1216 œreœ way to wallroom
+7992 27635 1216 œreœ way to wallroom
+9383 27312 1216 œreœ wallroom
+9090 28541 1216 œreœ wallroom
+11634 28542 1216 œreœ wallroom
+13648 28543 1216 œreœ wallroom
+15743 29559 704 œreœ wallroom
+15743 25728 704 œreœ wallroom
+17135 26093 704 œreœ wallroom
+16831 29567 704 œreœ wallroom
+16345 27658 704 œreœ wallroom
+12461 26752 1216 œreœ wallroom
+11391 25280 1216 œreœ wallroom
+11389 23680 1216 œreœ wallroom
+10380 24034 1216 œreœ wallroom
+9088 23680 1216 œreœ wallroom
+9088 25378 1216 œreœ wallroom
+18048 29567 704 œreœ wallroom respawn
+19327 29567 448 œreœ wallroom respawn
+18729 27228 647 œreœ wallroom respawn
+19327 25728 448 œreœ wallroom respawn
+18048 25760 704 œreœ wallroom respawn
+18230 27634 704 œreœ wallroom respawn
+20179 27287 576 œreœ tube to wall
+20341 25812 576 œreœ tube to wall
+20270 24643 576 œreœ tube to wall
+20206 23565 417 œreœ blown tube
+20249 22050 576 œreœ tube to waterroom
+20198 20564 576 œreœ tube to waterroom
+20135 18721 372 œreœ tube to waterroom
+20072 16879 320 œreœ tube to waterroom
+19621 15557 506 œreœ tube to waterroom
+18096 15881 320 œreœ tube to waterroom
+21709 23459 277 œreœ way to tube
+22980 23501 -644 œreœ way to tube
+24077 22070 -1124 œreœ way to tube
+24854 20353 -959 œreœ way to tube
+25183 19749 -959 œreœ way to tube
+25325 18266 -1225 œreœ sewer crossroad
+24466 17698 -1343 œreœ way to low. waterhall
+22104 18386 -1648 œreœ way to low. waterhall
+26625 16788 -1343 œreœ way to flagroom
+27194 15621 -1121 œreœ way to flagroom
+29165 14061 -1351 œreœ way to flagroom
+31615 14719 -1855 œreœ way to flagroom
+31614 12672 -1855 œreœ way to flagroom
+29815 13302 -1920 œreœ way to flagroom
+28430 12845 -2035 œreœ way to flagroom
+27519 11392 -2111 œreœ flagroom
+23680 11392 -2111 œreœ flagroom
+23721 13349 -2122 œreœ flagroom
+23680 16593 -2348 œreœ flagroom
+23680 18560 -3135 œreœ flagroom
+23680 20351 -3136 œreœ flagroom
+23680 21375 -2623 œreœ flagroom
+27519 21375 -2623 œreœ flagroom
+26190 21375 -2623 œreœ flagroom
+27519 18560 -3135 œreœ flagroom
+25663 19046 -3391 œreœ flagroom
+27518 14492 -2112 œreœ flagroom
+27519 16551 -2339 œreœ flagroom
+26495 9873 -2111 œreœ lower waterhall
+24821 9825 -2111 œreœ lower waterhall
+26495 8320 -2111 œreœ lower waterhall
+24324 8320 -2111 œreœ lower waterhall
+22065 8320 -2111 œreœ lower waterhall
+18567 8320 -2111 œreœ lower waterhall
+18560 10939 -2008 œreœ lower waterhall
+18659 13002 -1791 œreœ lower waterhall
+14976 12416 -1855 œreœ lower waterhall
+14689 14207 -2367 œreœ lower waterhall
+17752 14207 -2367 œreœ lower waterhall
+19584 15392 -2367 œreœ lower waterhall
+20011 17407 -2367 œreœ lower waterhall
+21375 17407 -2367 œreœ lower waterhall
+21375 15710 -2367 œreœ lower waterhall
+21375 13907 -2367 œreœ lower waterhall
+21375 10778 -2540 œreœ lower waterhall
+15365 14318 320 œreœ upper waterroom
+14513 14950 192 œreœ upper waterroom
+17279 14464 192 œreœ upper waterroom
+17029 15928 192 œreœ upper waterroom
+17279 17222 192 œreœ upper waterroom
+17037 18613 192 œreœ upper waterroom
+17279 20570 192 œreœ upper waterroom
+17099 23119 448 œreœ upper waterroom
+15430 25166 832 œreœ upper waterroom
+13869 25471 1088 œreœ upper waterroom
+12416 25471 1088 œreœ upper waterroom
+12416 23680 1088 œreœ upper waterroom
+13910 24047 1088 œreœ upper waterroom
+15447 22820 448 œreœ upper waterroom
+14464 20728 192 œreœ upper waterroom
+14635 17963 192 œreœ upper waterroom
+13951 22975 1216 œreœ RR
+12032 23039 1216 œreœ RR
+9600 22975 1216 œreœ RR
+9600 20608 1216 œreœ RR
+13951 19963 2240 œreœ RR
+13951 17088 2240 œreœ RR
+12438 17024 2240 œreœ RR
+10791 17024 2240 œreœ RR
+9375 17024 2752 œreœ RR
+7808 17088 2752 œreœ RR
+7808 18613 2752 œreœ RR
+7857 19729 2752 œreœ RR
+8182 21575 2752 œreœ RR
+7808 23039 2752 œreœ RR
+9017 22948 2752 œreœ RR
+11391 21955 3008 œreœ teleporter
+12160 21979 3008 œreœ teleporter
+20223 18356 -1471 œreœ tunnel entrance
+18202 18407 -1471 œreœ tunnel entrance
+15728 18468 -1471 œreœ tunnel entrance
+12934 18504 -1362 œreœ tunnel entrance
+10518 18411 -1190 œreœ tunnel entrance
+6805 18504 -959 œreœ tunnel entrance
+6878 16524 -959 œreœ tunnel entrance
+6784 14479 -959 œreœ tunnel entrance
+6896 12672 -959 œreœ tunnel entrance
+4981 12736 -959 œreœ tunnel entrance
+3039 12801 -959 œreœ tunnel entrance
+740 12878 -959 œreœ tunnel entrance
+-1141 11935 -959 œreœ tunnel entrance
+-2687 11904 -959 œreœ tunnel entrance
+-2575 13695 -959 œreœ tunnel entrance
+-1265 13695 -959 œreœ tunnel entrance
+20772 18254 -1727 œreœ lower waterhall
+6869 22394 2752 œreœ upper way to RR
+6850 20937 2752 œreœ upper way to RR
+7038 19364 3037 œreœ upper way to RR
+7018 17825 3104 œreœ upper way to RR
+4480 17801 3104 œreœ upper way to RR
+4480 19581 3104 œreœ upper way to RR
+4719 20780 3104 œreœ upper way to RR
+4480 22399 3104 œreœ upper way to RR
+5503 21435 3104 œreœ upper way to RR
+5503 18925 3104 œreœ upper way to RR
+3706 20320 3264 œreœ cappoint deck
+893 20476 3264 œreœ cappoint deck
+870 17720 3264 œreœ cappoint deck
+-702 17650 3264 œreœ cappoint deck
+-639 19773 3104 œreœ cappoint deck
+-3591 19544 3264 œreœ cappoint deck
+-3711 21896 3104 œreœ cappoint deck
+-1673 22656 3104 œreœ cappoint deck
+699 21342 3104 œreœ cappoint deck
+2173 15385 4032 œreœ sniperdeck
+3233 15999 4032 œreœ sniperdeck
+3270 14420 4032 œreœ sniperdeck
+3331 12479 4032 œreœ sniperdeck
+3588 10637 4032 œreœ sniper respawn
+2432 10406 4032 œreœ sniper respawn
+1152 7337 3520 œreœ sniper respawn
+3967 7296 3520 œreœ sniper respawn
+4704 17995 192 œreœ main entrance
+6015 17890 192 œreœ main entrance
+6015 16225 192 œreœ main entrance
+6015 14231 192 œreœ main entrance
+5888 12577 192 œreœ main entrance
+4480 12417 192 œreœ main entrance
+4480 14289 192 œreœ main entrance
+4989 16468 192 œreœ main entrance
+6976 13951 512 œreœ way to RR
+6942 12416 500 œreœ way to RR
+8822 12416 704 œreœ way to RR
+7808 15053 704 œreœ way to RR
+8831 16255 704 œreœ way to RR
+9486 13997 1159 œreœ way to RR
+10821 14894 1728 œreœ way to RR
+12415 13966 1728 œreœ way to RR
+12415 16148 1728 œreœ way to RR
+10554 16511 2275 œreœ way to RR
+7915 16347 2752 œreœ way to RR
+8947 15488 2752 œreœ way to RR
+1408 17880 256 œreœ outside
+1408 20093 256 œreœ outside
+3386 20067 192 œreœ outside
+-18303 -7808 1216 bl teleport entrance
+-18257 -9087 1216 bl teleport entrance
+-15987 -8962 1216 bl teleport entrance
+-15872 -7808 1216 bl teleport entrance
+7808 20608 1216 œreœ teleport entrance
+9087 20608 1216 œreœ teleport entrance
+8975 22997 1216 œreœ teleport entrance
+7808 23039 1216 œreœ teleport entrance
+-19117 -11614 2112 bl RR
+-18816 -1481 256 bl outside
+-18816 -2931 192 bl outside
+-18816 -3967 192 bl outside
+-18303 -3999 192 bl way to wallroom
+12243 20692 1686 œreœ RR
+-14464 -4736 3232 bl upper respawn
+-14464 -5759 3232 bl upper respawn
+-15999 -5759 3122 bl upper respawn
+-15999 -4352 3122 bl upper respawn
+4736 24447 3232 œreœ upper respawn
+5759 24447 3232 œreœ upper respawn
+5759 22912 3122 œreœ upper respawn
+4352 22912 3122 œreœ upper respawn
+5494 22399 3104 œreœ upper way to RR
+3967 22341 3104 œreœ cappoint deck

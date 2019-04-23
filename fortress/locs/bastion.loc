@@ -1,0 +1,666 @@
+32767 32767 32767 ----- Made by [orc]S-StealtH -----
+32767 32767 32766 -----   ver:1.0 14.04.2006   -----
+6980 5446 3086 $red waterçhall way
+8212 5880 3285 $red hall
+5529 5379 2325 $red waterçhall way
+4494 5200 1917 $red waterçhall way
+4622 3607 1514 $red waterçhall way
+5771 3569 1131 $red waterçhall way
+7375 3586 596 $red waterçhall way
+9098 3607 464 $red waterçhall way
+10708 3266 550 $red waterçhall way
+10392 1314 500 $red waterçhall way
+9461 1281 672 $red waterçhall way
+8093 1316 1107 $red waterçhall way
+6070 1358 1301 $red waterçhall way
+5182 1360 1292 $red waterçhall way
+4579 959 1265 $red waterçhall way
+10764 3559 2511 $red waterçhall way
+10920 3511 1529 $red waterçhall way
+3903 -437 1106 water
+4723 -2723 3277 water
+5100 -4010 1381 water
+6583 -4062 1389 water
+7805 -3683 349 water
+9090 -4090 282 $red waterçtd way
+10195 -4174 354 $red waterçtd way
+10104 -5442 701 $red waterçtd way
+10832 -5805 1083 $red waterçtd way
+11914 -5793 1308 $red waterçtd way
+12836 -5764 1687 $red waterçtd way
+13854 -5722 2212 $red waterçtd way
+13949 -4640 2614 $red waterçtd way
+13983 -2774 3354 $red waterçtd way
+12726 -2915 3183 $red td entrance
+12625 -2367 3187 $red td entrance
+11331 -2579 3343 $red td entrance
+10108 -2439 4984 $red td entrance
+8962 -2427 3180 $red td entrance
+8935 -3440 3155 $red td entrance
+11315 -2436 5025 $red td entrance
+13952 -3409 4696 $red td entrance
+13380 -2718 5010 $red td
+13207 -3403 4837 $red td entrance
+7696 -4630 147 water
+7578 -4098 1393 water
+7277 -4073 3313 $red bridge(td)
+5798 -4020 3341 $red bridge(td)
+5792 -3304 3466 $red bridge(td)
+3928 -4052 3526 $red bridge(td)
+3217 -4090 3576 $blue bridge(hall)
+1915 -4130 3171 $blue bridge(hall)
+1651 -3245 3482 $blue bridge(hall)
+595 -2645 3402 water
+-621 -1553 3555 water
+-1396 -947 3374 water
+664 2568 3412 water
+783 1752 5110 water
+427 3282 3402 $red bridge(hall)
+670 2755 5227 water
+734 3229 4631 $red bridge(hall)
+-1334 2842 3326 water
+670 4448 4671 $red bridge(hall)
+-487 4061 4679 $red bridge(hall)
+-702 4936 3502 $red bridge(hall)
+-1400 4051 3164 $red bridge(hall)
+-1590 4939 3487 $red bridge(hall)
+-1934 5404 3407 water
+-3341 4052 3465 $red bridge(hall)
+-3720 3698 3372 $blue bridge(td)
+-4184 3205 3417 $blue bridge(td)
+-5787 4068 3109 $blue bridge(td)
+-6223 4986 3530 $blue bridge(td)
+-7123 4096 3233 $blue bridge(td)
+-7141 5568 3398 water
+-7517 6808 4474 water
+-6057 5464 3296 water
+-4995 5399 3301 water
+-3438 6887 3256 water
+-2934 5394 3418 water
+527 6180 5012 water
+595 5543 4933 water
+662 4898 4767 $red bridge(hall)
+-1143 3245 3491 $red bridge(hall)
+-2695 4051 4369 $red bridge(hall)
+-2489 4971 3468 $red bridge(hall)
+-1933 2836 3333 water
+77 4942 3508 $red bridge(hall)
+1242 5461 5264 $red balcony
+1535 4312 4532 $red balcony
+741 4943 3500 $red bridge(hall)
+446 6922 5294 water
+289 5487 3329 water
+676 4055 3305 $red bridge(hall)
+-196 3266 3435 $red bridge(hall)
+-135 2820 3292 water
+272 2811 3279 water
+2955 -4102 4901 $blue bridge(hall)
+4486 -4116 4818 $red bridge(td)
+6747 -4142 4747 $red bridge(td)
+5554 -4956 3445 $red bridge(td)
+2010 -4932 3519 $blue bridge(hall)
+1157 -4966 3403 $blue bridge(hall)
+514 -4116 4983 $blue bridge(hall)
+-8 -4974 3388 $blue bridge(hall)
+-765 -4343 4259 $blue bridge(hall)
+-813 -3512 4229 $blue bridge(hall)
+-763 -3631 3390 $blue bridge(hall)
+4866 -3216 3505 $red bridge(td)
+5614 -2724 3306 water
+7775 -4298 4518 $red bridge(td)
+8726 -4012 4518 $red td entrance
+7765 -3383 4450 $red bridge(td)
+7738 -2504 4949 water
+6445 -2727 3361 water
+6750 -1360 5085 water
+5743 -458 5123 water
+4762 -429 5000 water
+7275 -2713 3418 water
+7780 -4917 4598 $red bridge(td)
+7479 -5697 4949 water
+7572 -6817 4881 water
+7150 -3250 3505 $red bridge(td)
+6612 -3235 3449 $red bridge(td)
+3952 -4704 3576 $red bridge(td)
+3187 -4937 3648 $blue bridge(hall)
+3187 -3325 3523 $blue bridge(hall)
+3908 -3331 3528 $red bridge(td)
+7873 -3326 3631 $red bridge(td)
+7527 -5052 3564 $red bridge(td)
+6463 -4978 3402 $red bridge(td)
+191 -2650 3398 water
+117 -3228 3456 $blue bridge(hall)
+-598 -2631 3607 water
+-2804 113 3170 water
+-3814 278 3095 water
+-3525 2797 3333 water
+-4297 2794 3349 water
+-4798 2789 3362 water
+-5739 2765 3373 water
+-6788 1137 3117 water
+-3019 2813 3336 water
+-5619 333 3030 water
+-7770 2350 3238 water
+-7326 2744 3455 water
+-2565 2829 3338 water
+-3347 3300 3536 $red bridge(hall)
+-3729 4428 3392 $blue bridge(td)
+-4766 3217 3565 $blue bridge(td)
+-5654 3228 3473 $blue bridge(td)
+-7974 4611 3352 $blue bridge(td)
+-7984 3912 3311 $blue bridge(td)
+-7986 3226 3393 $blue bridge(td)
+-7283 3216 3435 $blue bridge(td)
+-6747 3240 3510 $blue bridge(td)
+-3714 3260 3404 $blue bridge(td)
+-7982 4949 3418 $blue bridge(td)
+-7783 5632 4346 water
+-4906 4955 3498 $blue bridge(td)
+-3755 4956 3537 $blue bridge(td)
+-3374 5031 3448 $red bridge(hall)
+-3030 5002 3456 $red bridge(hall)
+-2762 3237 3513 $red bridge(hall)
+772 3294 3390 $red bridge(hall)
+-1982 3235 3515 $red bridge(hall)
+1857 3261 3822 $red hall way
+1527 2844 4552 $red balcony
+-763 5418 3372 water
+-940 2837 3316 water
+-4784 505 4964 water
+-3480 -470 4437 $blue balcony
+-3098 -200 5295 $blue balcony
+-3460 -873 3528 $blue hall way
+1263 2215 5278 $red balcony
+2609 1698 3837 $red hall way
+-722 -3198 3532 $blue bridge(hall)
+342 -5420 3401 water
+1117 -5442 3472 water
+1949 -5475 3491 water
+4603 -4889 3457 $red bridge(td)
+7901 -3976 3434 $red bridge(td)
+7929 -4988 3460 $red bridge(td)
+4586 -5559 3417 water
+6194 -5499 3330 water
+7095 -5450 3270 water
+5361 -5544 3378 water
+7778 -5443 3248 water
+3835 -2700 3266 water
+3699 -5547 3457 water
+8960 -4689 3201 $red td entrance
+8993 -5744 3195 $red td entrance
+11914 -4790 4585 $red td entrance
+12412 -2497 4974 $red td entrance
+11439 -1879 5247 $red td
+12296 -1871 5273 $red td
+13265 -1896 5334 $red td
+14055 -4067 4650 $red td entrance
+14096 -4971 4589 $red td entrance
+10482 -1833 5169 $red td
+9598 -1903 5351 $red balcony
+9158 -2459 5149 $red td entrance
+8671 -2586 4560 $red td entrance
+8732 -5357 4527 $red td entrance
+8820 -6877 4629 $red td entrance
+12293 -6881 4542 $red td entrance
+14157 -6727 4473 $red td entrance
+14136 -5676 4527 $red td entrance
+15162 -6499 4554 $red respawn(td)
+15171 -6793 4598 $red respawn(td)
+17040 -6808 4558 $red respawn(td)
+15138 -5564 4546 $red respawn(td)
+15124 -5011 4550 $red respawn(td)
+15098 -4267 4558 $red respawn(td)
+15087 -3444 4566 $red respawn(td)
+14098 -2760 4948 $red td
+14098 -2066 5055 $red td
+12726 -1296 3790 $red hall way
+13890 -1335 3329 $red hall way
+9489 -1620 4591 $red balcony
+9015 -6390 3243 $red td entrance
+11592 -6195 3317 $red td entrance
+8467 -1821 5286 $red balcony
+14036 -1220 4999 $red td
+12478 -215 3267 $red hall way
+12354 506 3255 $red hall
+12376 1015 3245 $red hall
+12531 2084 3245 $red hall
+11179 2107 3281 $red hall
+13950 -463 3272 $red hall way
+11056 -203 3280 $red hall way
+10971 -1191 3783 $red hall way
+11008 -358 3841 $red hall way
+9334 -379 3780 $red hall way
+7758 -399 3830 $red hall way
+7930 739 3800 $red hall way
+6673 665 3830 $red hall way
+4792 708 3791 $red hall way
+3888 1857 3829 $red hall way
+2742 3183 3794 $red hall way
+2654 4969 3777 $red hall way
+2597 6573 3798 $red hall way
+1814 6486 3759 $red hall way
+2268 8036 3355 $red respawn(fr)
+3380 8006 4541 $red respawn(fr)
+2344 9831 4007 $red respawn(fr)
+3255 9906 4247 $red respawn(fr)
+4973 7965 4535 $red respawn(fr)
+6050 7715 4629 $red respawn(fr)
+6031 6271 4926 $red respawn(fr)
+6027 5125 5073 $red respawn(fr)
+6396 4302 5085 $red respawn(fr)
+7353 3957 5101 $red ramp(button)
+8128 3185 5064 $red ramp(button)
+9215 2054 5100 $red ramp(button)
+9910 1530 5053 $red button
+10661 1567 5081 $red button
+10965 2395 4986 $red hall
+10221 2677 4983 $red hall
+12975 2458 5046 $red hall
+12949 3055 5054 $red hall
+13196 1428 5094 $red ramp(door)
+12940 769 5125 $red ramp(door)
+13932 1538 5103 $red ramp(door)
+12579 -298 5066 $red td
+13118 -427 5065 $red td
+12319 -1206 5187 $red td
+11143 -261 5067 $red td
+10423 -446 4982 $red td
+10398 -1022 4912 $red td
+9558 -414 4617 $red balcony
+8362 -376 4487 $red balcony
+8293 675 4580 $red balcony
+7324 477 4460 $red balcony
+6255 1800 4433 $red balcony
+5657 1848 4518 $red balcony
+5202 1151 4478 $red balcony
+5787 1765 3805 $red hall way
+4042 1887 4522 $red balcony
+3923 1351 4462 $red balcony
+2547 2584 4463 $red balcony
+2919 4929 4627 $red balcony
+2442 5996 4474 $red balcony
+1637 6905 4466 $red balcony
+1248 6904 5325 $red balcony
+1529 5724 4498 $red balcony
+1838 4672 3795 $red hall way
+1865 2449 3841 $red hall way
+3668 724 3815 $red hall way
+9101 -1238 3830 $red hall way
+3597 566 4502 $red balcony
+2791 3720 4504 $red balcony
+2995 2885 4528 $red balcony
+7255 -481 4592 $red balcony
+6311 502 4613 $red balcony
+4375 517 4605 $red balcony
+2884 7005 4475 $red balcony
+6502 953 4485 $red balcony
+8182 -1390 4566 $red balcony
+7184 1786 4566 $red balcony
+6819 1750 3835 $red hall way
+3751 6101 4597 $red balcony
+3848 6791 4453 $red balcony
+1977 1898 4516 $red balcony
+2985 827 4530 $red balcony
+7760 -1288 5310 $red balcony
+6461 29 5263 $red balcony
+5303 172 5205 $red balcony
+3461 153 5255 $red balcony
+2179 1182 5257 $red balcony
+1229 4164 5127 $red balcony
+1632 826 5132 water
+2768 -298 5079 water
+13258 3166 3355 $red hall
+10676 3649 3266 $red hall
+13249 4041 3346 $red hall
+8883 3906 4965 $red hall
+8483 5474 4809 $red hall
+9380 6786 4573 $red fr entrance
+8382 6792 5021 $red fr entrance
+7558 5754 5114 $red ramp(button)
+7541 6750 5256 $red ramp(button)
+10245 6897 4159 $red fr entrance
+10812 6537 3961 $red fr entrance
+11048 6888 4126 $red fr entrance
+11582 5931 3532 $red hall
+14198 4236 5055 $red ramp(door)
+13974 3009 5057 $red ramp(door)
+14016 -269 5060 $red td
+11243 437 3262 $red hall
+632 6597 3236 water
+15087 -749 3372 $red respawn(td)
+17099 -1007 3768 $red respawn(td)
+16890 -3410 4479 $red respawn(td)
+8282 3908 3291 $red hall
+7348 4806 5122 $red ramp(button)
+6683 7966 4579 $red respawn(fr)
+6804 9064 4584 $red respawn(fr)
+6900 9807 4537 $red respawn(fr)
+13205 5191 3335 $red hall
+8841 5982 3256 $red hall
+8374 2993 3364 $red hall
+12962 4663 4952 $red hall
+12951 5923 5092 $red hall
+14006 5922 5117 $red ramp(door)
+14007 6829 5260 $red ramp(door)
+14196 4842 5069 $red ramp(door)
+10717 5320 3613 $red hall
+11906 6819 4449 $red fr entrance
+12811 6803 5086 $red fr entrance
+13166 6079 3403 $red hall
+10260 2069 3274 $red hall
+9317 2114 3266 $red hall
+9849 6048 3295 $red hall
+8259 4882 3298 $red hall
+13290 2165 3318 $red hall
+12201 5988 3434 $red hall
+15023 4511 5060 $red fr secret
+10771 7529 3938 $red fr way
+10833 8649 3972 $red fr way
+10887 9693 3991 $red fr way
+12488 9709 4522 $red fr way
+13383 9712 4927 $red fr way
+13981 9698 5132 $red fr
+14689 10114 5139 $red fr
+15827 8201 6177 $red fr
+14647 11253 5127 $red fr
+17745 11402 5164 $red fr
+18200 9607 5217 $red fr
+16769 8210 6177 $red fr
+16080 8012 5061 $red fr
+16409 7116 5111 $red fr secret
+16914 8040 5047 $red fr
+16374 4599 5007 $red fr secret
+16417 6088 5014 $red fr secret
+14701 9003 5090 $red fr
+18077 8023 5123 $red fr
+14758 7980 5088 $red fr
+3048 -2676 3298 water
+-769 -1935 5127 water
+-1135 -2621 5181 $blue balcony
+-1132 -4252 5252 $blue balcony
+-710 -4946 4337 $blue bridge(hall)
+-2443 -1847 3244 $blue hall way
+-2717 -1602 3590 $blue hall way
+-4576 -671 3236 $blue hall way
+-5766 -1643 3285 $blue hall way
+-6135 -902 3334 $blue hall way
+-7103 -89 3143 $blue hall way
+-12811 -4487 4143 $blue hall
+-14168 -4885 5071 $blue ramp(door)
+-15309 -4513 5115 $blue fr secret
+-16403 -4581 5140 $blue fr secret
+-16385 -6111 5078 $blue fr secret
+-16401 -6846 5265 $blue fr secret
+-16075 -8057 4992 $blue fr
+-17010 -8079 5071 $blue fr
+-14745 -9259 5093 $blue fr
+-14683 -9905 5131 $blue fr
+-13433 -9716 4879 $blue fr way
+-11995 -9727 4441 $blue fr way
+-10850 -9680 4054 $blue fr way
+-10824 -8737 4040 $blue fr way
+-10819 -7639 4018 $blue fr way
+-10732 -6840 4153 $blue fr entrance
+-9917 -6865 4243 $blue fr entrance
+-8702 -6883 4985 $blue fr entrance
+-11314 -6841 4121 $blue fr entrance
+-12904 -6816 4906 $blue fr entrance
+-11821 -5923 3408 $blue hall
+-11777 -5020 3564 $blue hall
+-10705 -3549 3234 $blue hall
+-9857 -4957 3248 $blue hall
+-8621 -5029 4130 $blue hall
+-8251 -4879 3240 $blue hall
+-8226 -4108 3277 $blue hall
+-9628 -3310 4222 $blue hall
+-10676 -2013 3322 $blue hall
+-11314 -1630 3262 $blue hall
+-12504 -2121 3312 $blue hall
+-11420 -434 3242 $blue hall
+-12223 -532 3286 $blue hall
+-12493 393 3286 $blue hall way
+-12219 1342 3298 $blue hall way
+-13796 466 3278 $blue hall way
+-13775 1307 3268 $blue hall way
+-10942 376 3265 $blue hall way
+-10572 1215 3312 $blue hall way
+-9410 1158 3663 $blue hall way
+-9391 376 3253 $blue hall way
+-8621 289 3675 $blue hall way
+-4260 -1698 3288 $blue hall way
+-4715 -444 4460 $blue balcony
+-2866 -2939 3193 $blue hall way
+-2665 -3686 3770 $blue hall way
+-1769 -3818 3247 $blue hall way
+-2834 -4689 3248 $blue hall way
+-1765 -5013 3264 $blue hall way
+-2863 -6130 3194 $blue hall way
+-2784 -6611 3283 $blue hall way
+-1937 -6501 3336 $blue hall way
+-2459 -6975 3246 $blue hall way
+-2320 -7983 3413 $blue respawn(fr)
+-3193 -7987 4527 $blue respawn(fr)
+-2607 -9822 3999 $blue respawn(fr)
+-4123 -9821 4540 $blue respawn(fr)
+-5221 -8074 4560 $blue respawn(fr)
+-6900 -9739 4546 $blue respawn(fr)
+-6854 -8754 4539 $blue respawn(fr)
+-6701 -8106 4596 $blue respawn(fr)
+-6045 -7405 4623 $blue respawn(fr)
+-4211 -8015 4569 $blue respawn(fr)
+-3531 -6813 4450 $blue balcony
+-3710 -6124 4430 $blue balcony
+-2528 -6819 4459 $blue balcony
+-1472 -6777 4447 $blue balcony
+-1161 -5864 5224 $blue balcony
+-1453 -5293 4485 $blue balcony
+-614 -5487 4837 water
+-1517 -3917 4453 $blue balcony
+-1392 -836 5003 water
+-2238 -1013 5316 $blue balcony
+-2625 -1146 4439 $blue balcony
+-4524 -181 5280 $blue balcony
+-6141 -89 5276 $blue balcony
+-6516 -448 4486 $blue balcony
+-7702 716 4523 $blue balcony
+-8627 1492 4556 $blue balcony
+-9222 1459 4617 $blue balcony
+-10088 1820 5152 $blue td
+-9280 500 4534 $blue balcony
+-8208 1889 5384 $blue balcony
+-7233 899 5317 $blue balcony
+-8944 2392 4451 $blue td entrance
+-7751 2248 4844 water
+-6817 1242 4904 water
+-5782 444 4947 water
+-611 -2571 5231 water
+-278 -180 5558 water
+-4107 4192 4971 $blue bridge(td)
+-3997 5373 3360 water
+-8763 5144 4561 $blue td entrance
+-6270 4128 4802 $blue bridge(td)
+-7584 4108 5046 $blue bridge(td)
+-8759 4384 4582 $blue td entrance
+2270 -2647 3355 water
+2941 -319 281 water
+2047 -4179 1481 water
+-499 -2064 390 water
+-304 465 454 water
+-2698 401 196 water
+-4016 695 1027 water
+-5154 624 1031 water
+-4610 -643 1200 $blue waterçhall way
+-4647 -1237 1295 $blue waterçhall way
+-7596 3448 415 water
+-7774 4035 1481 water
+-7566 4803 386 water
+-7759 6092 314 water
+-5120 4016 1507 water
+-1982 4090 1494 water
+-731 4093 1461 water
+275 6139 351 water
+489 4142 355 water
+541 2009 322 water
+1482 855 325 water
+5391 -601 765 water
+7775 -6161 309 water
+7618 -1975 307 water
+6050 -516 468 water
+440 4078 1502 water
+607 -4107 1460 water
+-650 -4086 1618 water
+41 102 2879 water
+2840 -5516 3480 water
+7626 -6908 3261 water
+-7693 6691 3132 water
+-3599 490 4999 water
+-2326 140 5062 water
+-158 -4067 3146 $blue bridge(hall)
+-448 -6725 4693 water
+-159 -2653 3393 water
+-139 -5408 3353 water
+-772 -4218 3354 $blue bridge(hall)
+1363 -2632 3403 water
+-577 -6642 3236 water
+-6882 4033 1474 water
+-597 -6456 288 water
+-650 -5498 3238 water
+-1176 -6961 5449 $blue balcony
+-777 -4966 3471 $blue bridge(hall)
+-4727 -3623 1742 $blue waterçhall way
+-5439 -3641 1195 $blue waterçhall way
+-7741 5645 3058 water
+-8764 6244 4538 $blue td entrance
+-8894 6818 4601 $blue td entrance
+-10302 5766 4117 $blue td entrance
+-9379 2382 4446 $blue td entrance
+-8974 6410 3262 $blue td entrance
+-8963 5579 3275 $blue td entrance
+-8917 4751 3232 $blue td entrance
+-8588 4085 339 $blue waterçtd way
+-7890 6464 1273 water
+-6504 2770 3375 water
+-9946 2383 4452 $blue td entrance
+-1708 -2180 4483 $blue balcony
+-1296 -1908 5290 $blue balcony
+-10316 4113 3983 $blue td entrance
+-8903 4148 3161 $blue td entrance
+-1833 -2684 3250 $blue hall way
+-6947 -864 3783 $blue hall way
+-8943 3380 3117 $blue td entrance
+-10664 2387 4460 $blue td entrance
+-10659 2840 3956 $blue td entrance
+-8941 2930 3130 $blue td entrance
+-8970 2325 3163 $blue td entrance
+-8313 -607 3338 $blue hall way
+-8371 -1271 877 $blue waterçhall way
+-10608 -1341 591 $blue waterçhall way
+-10685 -2071 626 $blue waterçhall way
+-8079 -3620 578 $blue waterçhall way
+-6753 -3629 730 $blue waterçhall way
+-8241 -5970 3313 $blue hall
+-7340 -5452 3334 $blue waterçhall way
+-5855 -5410 2739 $blue waterçhall way
+-4881 -5396 2265 $blue waterçhall way
+-4475 -5056 2224 $blue waterçhall way
+-9509 -3597 565 $blue waterçhall way
+-10751 -3424 587 $blue waterçhall way
+-5652 -1395 1583 $blue waterçhall way
+-6434 -1329 1435 $blue waterçhall way
+-10638 -3637 1672 $blue waterçhall way
+-10754 -3663 2377 $blue waterçhall way
+-9094 -6087 3272 $blue hall
+-10155 4285 422 $blue waterçtd way
+-10166 5797 912 $blue waterçtd way
+-11751 5710 1397 $blue waterçtd way
+-12936 5674 1812 $blue waterçtd way
+-13964 5386 2364 $blue waterçtd way
+-13976 4041 2864 $blue waterçtd way
+-13971 3341 3107 $blue waterçtd way
+-13975 2743 3336 $blue waterçtd way
+-12636 2902 3334 $blue td entrance
+-11749 2443 4493 $blue td entrance
+-12686 2334 3339 $blue td entrance
+-12556 2573 4555 $blue td entrance
+-12596 3034 4580 $blue td entrance
+-12579 3614 4620 $blue td entrance
+-13326 3542 4518 $blue td entrance
+-12275 5084 4631 $blue td entrance
+-11652 1929 5243 $blue td
+-13247 1886 5249 $blue td
+-12692 499 5113 $blue td
+-13256 461 5073 $blue td
+-12971 -788 5058 $blue ramp(door)
+-13102 -1393 5069 $blue ramp(door)
+-14104 2126 5007 $blue td
+-14103 2787 4832 $blue td
+-13999 3562 4543 $blue td entrance
+-14022 4046 4577 $blue td entrance
+-11200 2398 4469 $blue td entrance
+-14067 5426 4565 $blue td entrance
+-14087 6196 4518 $blue td entrance
+-14088 6818 4532 $blue td entrance
+-15282 3970 4550 $blue respawn(td)
+-16490 3459 4576 $blue respawn(td)
+-16955 3154 4581 $blue respawn(td)
+-17054 5115 4524 $blue respawn(td)
+-15159 5291 4548 $blue respawn(td)
+-17021 6848 4580 $blue respawn(td)
+-15145 6818 4522 $blue respawn(td)
+-15110 6138 4511 $blue respawn(td)
+-15347 3384 4570 $blue respawn(td)
+-13297 2775 4879 $blue td
+-16945 1724 4169 $blue respawn(td)
+-16892 802 3892 $blue respawn(td)
+-16042 751 3668 $blue respawn(td)
+-15118 748 3411 $blue respawn(td)
+-13873 433 5062 $blue td
+-11103 208 5016 $blue td
+-10034 958 4815 $blue td
+-2623 -4925 4468 $blue balcony
+-2700 -3316 4456 $blue balcony
+-3990 -1859 4438 $blue balcony
+-8021 -800 4614 $blue balcony
+-7243 -1550 3256 $blue hall way
+-8357 1066 3301 $blue hall way
+-9980 419 4759 $blue td
+-5554 -1827 4442 $blue balcony
+-6784 -1836 4446 $blue balcony
+-10018 -1481 5010 $blue button
+-10527 -1450 5107 $blue button
+-10539 -2340 4336 $blue hall
+-12644 -2489 4188 $blue hall
+-14031 -2191 5071 $blue ramp(door)
+-6019 -6094 4880 $blue respawn(fr)
+-7533 -5468 5023 $blue ramp(button)
+-7535 -4761 5039 $blue ramp(button)
+-7359 -4366 5020 $blue ramp(button)
+-8291 -3047 5026 $blue ramp(button)
+-9128 -2158 5019 $blue ramp(button)
+-7544 -3874 5026 $blue ramp(button)
+-6320 -4333 5043 $blue respawn(fr)
+-6014 -4427 5007 $blue respawn(fr)
+-6010 -5105 5064 $blue respawn(fr)
+-8334 -2791 3298 $blue hall
+-7529 -6629 5125 $blue ramp(button)
+-13982 -6057 5105 $blue ramp(door)
+-13977 -6877 5178 $blue ramp(door)
+-14188 -4349 5048 $blue ramp(door)
+-14041 -3187 5063 $blue ramp(door)
+-13197 -4984 3345 $blue hall
+-13237 -3934 3330 $blue hall
+-13267 -3220 3311 $blue hall
+-9286 -2083 3314 $blue hall
+-14038 -1533 5085 $blue ramp(door)
+-10779 -1445 5801 $blue button
+-13151 -6117 3334 $blue hall
+-10799 -4805 3378 $blue hall
+-9708 -6127 3259 $blue hall
+-13292 -2212 3314 $blue hall
+-18164 -9673 5441 $blue fr
+-16776 -8154 6222 $blue fr
+-17833 -8066 5092 $blue fr
+-14680 -11228 5134 $blue fr
+-15984 -8223 6222 $blue fr
+-17680 -11442 5178 $blue fr
+-15041 -8020 5116 $blue fr

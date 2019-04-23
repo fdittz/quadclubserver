@@ -1,0 +1,388 @@
+-27007 8319 -4415 bl flagroom
+-26969 5971 -4927 bl flagroom
+-25068 4233 -4927 bl flagroom
+-23849 4332 -4927 bl flagroom
+-23168 5183 -4927 bl flagroom
+-23424 6271 -4927 bl flagroom
+-24448 8319 -4927 bl flagroom
+-24737 6439 -4415 bl flagroom
+-24272 2702 -4675 bl spiral bottom
+-25341 1862 -4512 bl spiral bottom
+-26583 617 -4294 bl spiral
+-26461 -1948 -3903 bl spiral
+-24353 -2773 -3527 bl spiral
+-21799 -2802 -3135 bl spiral
+-21894 -1015 -2748 bl spiral
+-21828 838 -2367 bl spiral top
+-20357 834 -1960 bl spiral top
+-19331 825 -1855 bl RR
+-19327 2943 -1855 bl RR
+-17153 2943 -1855 bl RR
+-13696 2943 -1855 bl RR
+-13696 450 -1855 bl RR
+-13696 -1769 -1855 bl RR
+-13696 2943 -2879 bl RR
+-15317 2943 -3391 bl RR
+-17006 2943 -3391 bl RR
+-19165 2943 -3391 bl RR
+-19327 1250 -3391 bl RR
+-19327 -1234 -3391 bl RR
+-19327 -2931 -3257 bl RR
+-19325 -548 -2066 bl RR
+-17817 -4211 -3391 bl RR
+-16184 -4173 -3391 bl RR
+-14461 -4412 -3135 bl RR
+-13824 -1904 -2879 bl RR
+-13919 118 -2879 bl RR
+-16058 -808 -3327 bl RR
+-15291 -5254 -2879 bl cap point
+-16403 -5536 -2687 bl cap point
+-17921 -5010 -2879 bl cap point
+-12902 -128 -2879 bl left way to RR
+-12896 -1407 -2879 bl left way to RR
+-11299 -1407 -2879 bl left way to RR
+-11213 -128 -2879 bl left way to RR
+-9728 -128 -2879 bl left way to RR
+-9728 -1407 -2879 bl left way to RR
+-9728 1665 -2782 bl right way to RR
+-9728 2943 -2782 bl right way to RR
+-11499 2932 -2107 bl right way to RR
+-11401 1664 -2144 bl right way to RR
+-13005 1664 -1855 bl right way to RR
+-13119 2926 -1855 bl right way to RR
+-18521 3468 -1855 bl lift top
+-18559 5247 -3647 bl lift bottom
+-18547 4657 -4927 bl lift bottom
+-18585 6527 -4511 bl liftway
+-19772 6103 -4415 bl liftway
+-21215 6527 -4415 bl liftway
+-22789 6527 -4415 bl liftway
+-8449 -1954 -2879 bl entrance
+-8397 -928 -2879 bl entrance
+-8789 806 -2858 bl entrance
+-8478 2274 -2879 bl entrance
+-8531 3455 -2879 bl entrance
+-6576 3419 -2879 bl entrance
+-4853 3442 -2879 bl entrance
+-4610 2077 -2879 bl entrance
+-3032 1919 -3391 bl entrance
+-2048 1919 -3391 bl entrance
+-2272 593 -3391 bl entrance
+-2112 -379 -3391 bl entrance
+-3211 -341 -3391 bl entrance
+-4543 -812 -2879 bl entrance
+-4524 -2175 -2815 bl entrance
+-3575 746 -3391 bl entrance
+-6357 575 -2879 bl entrance
+-7318 1916 -2879 bl entrance
+-7200 -992 -2879 bl entrance
+-3985 3617 -2879 bl way to gallery
+-2168 3634 -2879 bl way to gallery
+-2175 5247 -2879 bl way to gallery
+-1229 5099 -2879 bl way to gallery
+-2175 5247 -319 bl way to grate
+-2529 4032 -319 bl way to grate
+-2771 2702 -319 bl way to grate
+-2688 1933 -319 bl grate
+-2716 -511 -319 bl grate
+-5986 206 -607 bl grate
+-5899 1541 -607 bl grate
+-4258 1447 -607 bl grate
+-4221 148 -607 bl grate
+-18672 2442 -4159 bl stairs
+-16634 2370 -4671 bl stairs
+-13714 2323 -4927 bl slime entrance
+-10508 2891 -4761 bl slime
+-8409 1699 -4753 bl slime
+-6301 2654 -4927 bl slime
+-3754 2423 -4927 bl slime
+-3763 -721 -4927 bl slime middle
+-3862 -12142 -4927 slime middle
+-4459 -9516 -4992 slime middle
+-5304 -7161 -4671 slime middle
+-5302 -5015 -4671 slime middle
+-4332 -3201 -5007 slime middle
+-3749 -14955 -4927 œreœ slime
+-6198 -15487 -4927 œreœ slime
+-8299 -14821 -4927 œreœ slime
+-10612 -15568 -4927 œreœ slime
+-12997 -15116 -5021 œreœ slime entrance
+-2175 -896 -3391 bl outside
+-2076 -2580 -3391 bl outside
+-924 -3643 -3391 bl outside
+981 -4495 -3647 bl outside
+2523 -5439 -4111 bl outside
+4079 -5596 -4072 bl outside
+6011 -5439 -4159 bl outside
+6060 -4521 -4147 bl outside
+5822 -3400 -4085 bl outside
+6577 -2053 -4010 bl outside
+6783 -1042 -3954 bl outside
+6143 322 -3813 bl outside
+5659 1220 -3630 bl outside
+3035 -1492 -3911 bl outside
+3530 2643 -3391 bl outside
+5478 4249 -3647 bl outside
+3357 5247 -3647 bl outside
+2305 5247 -3647 bl outside
+444 5011 -3519 bl outside
+-1151 3968 -3263 bl outside
+-1887 2432 -3391 bl outside
+502 1996 -3391 bl outside
+-602 848 -3391 bl outside
+256 -602 -3391 bl outside
+72 5057 -1471 bl gallery
+-1023 3629 -1471 bl gallery
+2238 4446 -1471 bl gallery
+4115 4441 -1471 bl gallery
+5631 3471 -1471 bl gallery
+6525 1439 -1656 bl gallery
+6783 -1080 -1855 bl gallery
+6425 -3210 -1727 bl gallery
+6339 -5280 -1855 bl gallery
+5656 -6019 -1855 bl gallery
+3797 -6079 -1855 bl gallery
+2272 -6056 -1855 bl gallery
+5568 2357 -3519 bl backway entrance
+8417 2318 -3519 bl backway entrance
+8322 749 -3647 bl backway
+7424 -372 -3647 bl backway
+7424 -2161 -3647 bl backway
+7424 -4444 -3236 bl backway
+7963 -5967 -3135 bl backway
+-12290 3117 -2879 bl backyard
+-12359 4949 -2879 bl backyard
+-10626 4480 -2879 bl backyard
+-10624 6947 -2879 bl backyard
+-10624 8761 -2879 bl backyard
+-10624 11391 -3135 bl backyard
+-12666 6894 -2879 bl backyard
+-14719 4480 -2879 bl backyard
+-14719 6403 -2879 bl backyard
+-14719 8479 -2879 bl backyard
+-14719 11391 -3135 bl backyard
+-11584 9523 -5311 bl watertunnel step
+-11671 11043 -5311 bl watertunnel step
+-12179 10899 -6712 bl watertunnel end
+-12782 9093 -6976 bl watertunnel end
+-13922 9442 -7474 bl watertunnel end
+-13873 11086 -7453 bl watertunnel end
+-15321 10182 -7233 bl watertunnel
+-17437 10055 -7011 bl watertunnel
+-19511 10302 -7116 bl watertunnel
+-21531 10039 -6981 bl watertunnel
+-22977 10267 -6772 bl watertunnel
+-24295 9699 -6623 bl watertunnel
+-25311 8492 -6719 bl watertunnel
+-25268 7753 -6335 bl watertunnel ladder
+-18522 2461 -1855 bl RR
+-27007 -21119 -4415 œreœ flagroom
+-27007 -18957 -4799 œreœ flagroom
+-26186 -17866 -4927 œreœ flagroom
+-25130 -17024 -4927 œreœ flagroom
+-23791 -17204 -4927 œreœ flagroom
+-23168 -17983 -4927 œreœ flagroom
+-23424 -19071 -4927 œreœ flagroom
+-23990 -19638 -4927 œreœ flagroom
+-24448 -21119 -4927 œreœ flagroom
+-25968 -21119 -4927 œreœ flagroom
+-25344 -19628 -4927 œreœ flagroom
+-24358 -15943 -4785 œreœ spiral bottom
+-24352 -14770 -4671 œreœ spiral bottom
+-26423 -14759 -4415 œreœ spiral bottom
+-26419 -12816 -4201 œreœ spiral
+-26415 -10037 -3903 œreœ spiral
+-24248 -9806 -3503 œreœ spiral
+-21621 -9976 -3135 œreœ spiral
+-21787 -11656 -2791 œreœ spiral
+-21886 -13463 -2367 œreœ spiral top
+-20124 -13512 -1867 œreœ spiral top
+-19120 -13500 -1855 œreœ RR
+-19320 -15743 -1855 œreœ RR
+-18374 -15240 -1855 œreœ RR
+-17655 -15743 -1855 œreœ RR
+-16031 -15743 -1855 œreœ RR
+-14370 -15743 -1855 œreœ RR
+-13696 -15743 -1855 œreœ RR
+-13696 -14588 -1855 œreœ RR
+-13718 -12792 -1855 œreœ RR
+-13696 -11127 -1855 œreœ RR
+-13711 -15743 -2879 œreœ RR
+-13697 -14138 -2879 œreœ RR
+-13708 -12341 -2879 œreœ RR
+-13718 -10944 -2879 œreœ RR
+-13696 -9344 -2879 œreœ RR
+-14856 -8447 -3263 œreœ RR
+-16129 -8448 -3263 œreœ RR
+-17060 -8448 -3263 œreœ RR
+-18600 -8462 -3263 œreœ RR
+-19327 -9604 -3389 œreœ RR
+-19327 -11241 -2571 œreœ RR
+-19327 -12456 -1963 œreœ RR
+-19327 -11200 -3391 œreœ RR
+-19327 -13202 -3391 œreœ RR
+-19327 -15743 -3391 œreœ RR
+-17742 -15620 -3391 œreœ RR
+-15994 -15743 -3391 œreœ RR
+-14162 -15743 -3007 œreœ RR
+-15573 -14297 -3391 œreœ RR
+-17653 -13916 -3327 œreœ RR
+-16164 -11811 -3327 œreœ RR
+-17774 -7402 -2879 œreœ cap point
+-16632 -7179 -2687 œreœ cap point
+-15304 -7509 -2879 œreœ cap point
+-13059 -11392 -2879 œreœ right way to RR
+-13052 -12671 -2879 œreœ right way to RR
+-12812 -11978 -2879 œreœ right way to RR
+-11288 -12671 -2879 œreœ right way to RR
+-11288 -11392 -2879 œreœ right way to RR
+-9728 -11392 -2879 œreœ right way to RR
+-10034 -12065 -2879 œreœ right way to RR
+-9728 -12671 -2879 œreœ right way to RR
+-9728 -15743 -2782 œreœ left way to RR
+-9731 -14464 -2780 œreœ left way to RR
+-9938 -15049 -2701 œreœ left way to RR
+-11650 -14464 -2049 œreœ left way to RR
+-11446 -15743 -2127 œreœ left way to RR
+-13103 -15743 -1855 œreœ left way to RR
+-13119 -14464 -1855 œreœ left way to RR
+-18567 -16244 -1855 œreœ lift top
+-18560 -18047 -3647 œreœ lift bottom
+-18622 -16656 -4863 œreœ lift bottom
+-18673 -18425 -4927 œreœ lift bottom
+-18509 -19327 -4511 œreœ liftway
+-20001 -18757 -4415 œreœ liftway
+-21018 -19068 -4415 œreœ liftway
+-22608 -19212 -4415 œreœ liftway
+-15280 -15108 -4927 œreœ stairs
+-16653 -15145 -4671 œreœ stairs
+-18127 -15183 -4159 œreœ stairs
+-8575 -10692 -2879 œreœ entrance
+-8546 -11985 -2879 œreœ entrance
+-8825 -13544 -2822 œreœ entrance
+-8494 -15260 -2879 œreœ entrance
+-8639 -16511 -2815 œreœ entrance
+-7578 -16383 -2879 œreœ entrance
+-6762 -16511 -2815 œreœ entrance
+-5696 -16327 -2879 œreœ entrance
+-4521 -16301 -2879 œreœ entrance
+-4480 -15048 -2879 œreœ entrance
+-4480 -11923 -2879 œreœ entrance
+-4480 -10668 -2860 œreœ entrance
+-5887 -10624 -2815 œreœ entrance
+-6751 -10664 -2856 œreœ entrance
+-7728 -10624 -2815 œreœ entrance
+-2112 -12416 -3391 œreœ entrance
+-2048 -14718 -3391 œreœ entrance
+-3818 -13641 -3391 œreœ entrance
+-6621 -13592 -2879 œreœ entrance
+-3820 -16439 -2879 œreœ way to gallery
+-2188 -16506 -2879 œreœ way to gallery
+-1971 -17948 -2879 œreœ way to gallery
+-877 -17993 -2815 œreœ way to gallery
+-1904 -18047 -448 œreœ way to grate
+-2175 -17267 -319 œreœ way to grate
+-2830 -16821 -319 œreœ way to grate
+-2832 -15396 -319 œreœ way to grate
+-2789 -14748 -319 œreœ grate
+-2800 -12644 -319 œreœ grate
+-4106 -12879 -607 œreœ grate
+-5969 -12897 -607 œreœ grate
+-5973 -14254 -607 œreœ grate
+-4208 -14217 -607 œreœ grate
+22 -17887 -1471 œreœ gallery
+-1023 -16535 -1471 œreœ gallery
+1553 -17175 -1471 œreœ gallery
+3088 -17206 -1471 œreœ gallery
+4890 -17099 -1471 œreœ gallery
+5949 -15549 -1471 œreœ gallery
+6780 -13328 -1727 œreœ gallery
+6760 -11238 -1855 œreœ gallery
+6475 -9216 -1727 œreœ gallery
+6301 -6897 -1855 œreœ gallery
+4768 -6848 -1855 œreœ gallery
+2926 -6851 -1855 œreœ gallery
+-2134 -11903 -3391 œreœ outside
+-1864 -9901 -3391 œreœ outside
+-159 -8780 -3391 œreœ outside
+2268 -7627 -4159 œreœ outside
+3870 -7626 -4146 œreœ outside
+6015 -7488 -4159 œreœ outside
+6215 -9023 -4106 œreœ outside
+6493 -10347 -4032 œreœ outside
+6756 -12261 -3926 œreœ outside
+6783 -13815 -3675 œreœ outside
+4799 -13872 -3663 œreœ outside
+5381 -16202 -3602 œreœ outside
+4819 -17593 -3647 œreœ outside
+3054 -18047 -3647 œreœ outside
+1165 -18047 -3647 œreœ outside
+-583 -17335 -3391 œreœ outside
+-1601 -15994 -3391 œreœ outside
+-1286 -15232 -3391 œreœ outside
+490 -14962 -3391 œreœ outside
+156 -12416 -3391 œreœ outside
+-981 -13573 -3391 œreœ outside
+2294 -11532 -3391 œreœ outside
+5481 -15122 -3519 œreœ backway entrance
+8039 -15081 -3519 œreœ backway entrance
+6524 -15105 -3519 œreœ backway entrance
+7616 -13586 -3647 œreœ backway
+7424 -12512 -3647 œreœ backway
+7424 -10807 -3647 œreœ backway
+7616 -9279 -3439 œreœ backway
+7527 -7857 -3173 œreœ backway
+7987 -7034 -3135 œreœ backway
+9023 -6912 -3135 œreœ backway
+8956 -9094 -3393 œreœ backway
+9058 -10938 -3647 œreœ backway
+9065 -14163 -3594 œreœ backway
+-12564 -16556 -2879 œreœ backyard
+-12412 -18219 -2879 œreœ backyard
+-14719 -17291 -2879 œreœ backyard
+-14717 -19371 -2879 œreœ backyard
+-14719 -21250 -2879 œreœ backyard
+-14710 -24129 -3135 œreœ backyard
+-12913 -20929 -2879 œreœ backyard
+-10624 -24191 -3135 œreœ backyard
+-10631 -21343 -2879 œreœ backyard
+-10633 -18976 -2879 œreœ backyard
+-10632 -17280 -2879 œreœ backyard
+-11697 -23790 -5311 œreœ waterway step
+-11748 -22381 -5311 œreœ waterway step
+-12293 -22401 -6762 œreœ waterway end
+-12543 -24032 -6871 œreœ waterway end
+-13758 -24001 -7402 œreœ waterway end
+-14079 -22537 -7487 œreœ waterway end
+-15307 -23038 -7238 œreœ waterway
+-16616 -23085 -7007 œreœ waterway
+-18868 -23167 -7135 œreœ waterway
+-21378 -23056 -6995 œreœ waterway
+-23005 -22986 -6763 œreœ waterway
+-24510 -22447 -6623 œreœ waterway
+-25252 -20835 -6719 œreœ waterway ladder
+-25244 -20368 -5695 œreœ waterway ladder
+6037 -6429 -4031 middle
+4366 -6463 -4031 middle
+2176 -6449 -4031 middle
+-4864 4352 -2623 bl front respawn
+-6628 4480 -2623 bl front respawn
+-8447 4352 -2623 bl front respawn
+-8438 6411 -2583 bl front respawn
+-8438 7935 -2495 bl front respawn
+-6768 7930 -2495 bl front respawn
+-4864 7935 -2495 bl front respawn
+-4864 6468 -2540 bl front respawn
+-16583 4760 -2879 bl brack respawn
+-16522 6560 -2879 bl brack respawn
+-16572 8279 -2879 bl brack respawn
+-8207 -17292 -2623 œreœ front respawn
+-6603 -17327 -2623 œreœ front respawn
+-4864 -17366 -2623 œreœ front respawn
+-4871 -18690 -2623 œreœ front respawn
+-4864 -20561 -2495 œreœ front respawn
+-8428 -20735 -2495 œreœ front respawn
+-16469 -21007 -2879 œreœ back respawn
+-16479 -19809 -2879 œreœ back respawn
+-16492 -18146 -2879 œreœ back respawn
+
